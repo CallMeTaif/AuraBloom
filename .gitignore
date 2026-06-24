@@ -1,0 +1,20 @@
+# --- Datasets (kept locally, not committed) ---
+Seasonal_Color_Dataset_Processed_Version.csv
+makeup_knowledge_r_data.csv
+SkinTone_Datasets.zip
+*.zip
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
